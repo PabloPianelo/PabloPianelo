@@ -1,5 +1,5 @@
 <h1 align="center">  
-¡Hola! 👋 Soy **Pablo Pianelo Alonso**  
+¡Hola! 👋 Soy Pablo Pianelo Alonso 
 Programador Junior 
 </h1>
 
