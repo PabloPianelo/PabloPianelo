@@ -12,9 +12,9 @@
 
 ## 💻 Quien soy
 
-Me defino por mi constancia, motivación y orientación a resultados: habilidoso para resolver problemas con soluciones eficientes y escalables.
+Me defino por mi constancia, motivación y orientación a resultados. Soy habilidoso para resolver problemas con soluciones eficientes y escalables.
 En equipo, colaboro activamente aportando ideas, respetando buenas prácticas y adaptándome rápidamente al ritmo del proyecto.  
-Profesional en contínuo aprendizaje, busco asumir nuevos retos en entornos creativos y colaborativos donde pueda dejar huella con código sólido y experiencia de usuario cuidada.
+Profesional en continuo aprendizaje, busco asumir nuevos retos en entornos creativos y colaborativos donde pueda dejar huella con código sólido y experiencia de usuario cuidada.
 
 
 ## 🛠️ Mi Stack Tecnológico
