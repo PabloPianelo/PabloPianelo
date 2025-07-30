@@ -7,6 +7,9 @@
 
 ## 💻 Quien soy
 
+Me defino por mi constancia, motivación y orientación a resultados: habilidoso para resolver problemas con soluciones eficientes y escalables.
+En equipo, colaboro activamente aportando ideas, respetando buenas prácticas y adaptándome rápidamente al ritmo del proyecto.  
+Profesional en contínuo aprendizaje, busco asumir nuevos retos en entornos creativos y colaborativos donde pueda dejar huella con código sólido y experiencia de usuario cuidada.
 
 
 ## 🛠️ Mi Stack Tecnológico
@@ -39,7 +42,7 @@
 ## 🚀 Proyectos Públicos
 | Proyecto             | Descripción                           | Tecnologías             | Enlace |
 |----------------------|----------------------------------------|-------------------------|--------|
-| **Portfolio Web**    | Mi sitio personal para mostrar proyectos y contacto | React, Tailwind, CSS   | [Ver Repo](https://github.com/PabloPianelo/portfolio-web) |
+| **Escaparate Camisetas**    | Mi sitio personal para mostrar proyectos y contacto | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  | [Ver Repo]([https://github.com/PabloPianelo/portfolio-web](https://github.com/PabloPianelo/ProyectoFinDAM_Escaparate_Camisetas)) |
 | **API REST de ejemplo** | Backend en PHP con CRUD y autenticación JWT | PHP, MySQL             | [Ver Repo](...) |
 | **App en C#**        | Aplicación de escritorio demostrativa con interfaz gráfica | C#, .NET, SQLite        | [Ver Repo](...) |
 
