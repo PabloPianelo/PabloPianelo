@@ -1,6 +1,6 @@
 <h1 align="center">  
 ¡Hola! 👋 Soy Pablo Pianelo Alonso 
-<p>Programador Junior </p>
+<p>Programador Full Stack </p>
 </h1>
 
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=marsett.marsett&left_color=gray&right_color=blue)
